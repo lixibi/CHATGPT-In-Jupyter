@@ -1,0 +1,81 @@
+[{
+	"书名": "计算机程序设计艺术",
+	"作者": "Donald E. Knuth",
+	"出版年份": "1968-1974"
+}, {
+	"书名": "人月神话",
+	"作者": "Fred Brooks",
+	"出版年份": "1975"
+}, {
+	"书名": "操作系统概念",
+	"作者": "Silberschatz, Galvin 和 Gagne",
+	"出版年份": "1983"
+}, {
+	"书名": "编译原理",
+	"作者": "Alfred V. Aho、Monica S. Lam、Ravi Sethi 和 Jeffrey D. Ullman",
+	"出版年份": "1986"
+}, {
+	"书名": "Unix 编程艺术",
+	"作者": "Eric Steven Raymond",
+	"出版年份": "1991"
+}, {
+	"书名": "Java编程思想",
+	"作者": "Bruce Eckel",
+	"出版年份": "1998"
+}, {
+	"书名": "设计模式：可复用面向对象软件的基础",
+	"作者": "Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides",
+	"出版年份": "1994"
+}, {
+	"书名": "TCP/IP详解",
+	"作者": "W. Richard Stevens",
+	"出版年份": "1994"
+}, {
+	"书名": "算法导论",
+	"作者": "Thomas H. Cormen、Charles E. Leiserson、Ronald L. Rivest 和 Clifford Stein",
+	"出版年份": "1990"
+}, {
+	"书名": "代码大全",
+	"作者": "Steve McConnell",
+	"出版年份": "1993"
+}, {
+	"书名": "人工智能：一种现代的方法",
+	"作者": "Stuart Russell 和 Peter Norvig",
+	"出版年份": "1995"
+}, {
+	"书名": "Head First 设计模式",
+	"作者": "Eric Freeman 和 Elisabeth Robson",
+	"出版年份": "2004"
+}, {
+	"书名": "人类简史：从动物到上帝",
+	"作者": "尤瓦尔·赫拉利",
+	"出版年份": "2011"
+}, {
+	"书名": "深度学习",
+	"作者": "Ian Goodfellow、Yoshua Bengio 和 Aaron Courville",
+	"出版年份": "2016"
+}, {
+	"书名": "黑客与画家",
+	"作者": "Paul Graham",
+	"出版年份": "2011"
+}, {
+	"书名": "计算机网络：自顶向下方法",
+	"作者": "James F. Kurose 和 Keith W. Ross",
+	"出版年份": "2012"
+}, {
+	"书名": "C++ Primer",
+	"作者": "Lippman, Lajoie 和 Moo",
+	"出版年份": "2012"
+}, {
+	"书名": "机器学习：实战指南",
+	"作者": "Aurélien Géron",
+	"出版年份": "2017"
+}, {
+	"书名": "Python编程：从入门到实践",
+	"作者": "Eric Matthes",
+	"出版年份": "2016"
+}, {
+	"书名": "The Clean Coder: A Code of Conduct for Professional Programmers",
+	"作者": "Robert C. Martin",
+	"出版年份": "2011"
+}]
