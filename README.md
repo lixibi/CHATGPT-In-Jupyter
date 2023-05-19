@@ -10,4 +10,4 @@ This library provides a simple, lightweight interface that abstracts away much o
 
 这里提供了一个简单轻便的接口，让您专注于开发创造性和创新性的自然语言应用。无论您是数据科学家、研究人员还是开发人员，GPT-In-Jupyter 都可以让您轻松利用 GPT 模型强大的功能进行自己的项目。
 
-
+我将会做一个系列教程（交互式环境调试chatgpt实用指南），这里会同步更新示例代码，视频更新会晚于代码更新，希望在这里可以提出一些修改意见给我，以便完善我的视频教程。
