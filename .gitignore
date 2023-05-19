@@ -1,3 +1,4 @@
 .env
 chatgpt.py
 __pycache__/chatgpt.cpython-310.pyc
+data/question/q.md
